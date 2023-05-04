@@ -18,7 +18,7 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 ---
 * Up & Going
 
-    * [ ] [Foreword](up%20&%20going/foreword.md) (by [Jenn Lukas](http://jennlukas.com))
+    * [x] [Foreword](up%20&%20going/foreword.md) (by [Jenn Lukas](http://jennlukas.com))
     * [ ] [Chapter 1: Into Programming](up%20&%20going/ch1.md)
     * [ ] [Chapter 2: Into JavaScript](up%20&%20going/ch2.md)
     * [ ] [Chapter 3: Into YDKJS](up%20&%20going/ch3.md)
