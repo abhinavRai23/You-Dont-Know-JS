@@ -9,9 +9,12 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 <img src="async %26 performance/cover.jpg" width="75">&nbsp;
 <img src="es6 %26 beyond/cover.jpg" width="75">
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
+**To read more about the motivations and perspective behind this book series, check out the.**
 
 ## Titles
+
+* [ ] [Preface](preface.md)
+
 ---
 * Up & Going
 
