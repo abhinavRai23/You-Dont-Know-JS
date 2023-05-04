@@ -13,7 +13,7 @@ This is a series of books diving deep into the core mechanisms of the JavaScript
 
 ## Titles
 
-* [ ] [Preface](preface.md)
+* [X] [Preface](preface.md)
 
 ---
 * Up & Going
